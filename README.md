@@ -1,5 +1,5 @@
 # VBV BRAINTREE
-card checker 3D's using python 3.17
+card checker 3D's using python 3.13
 <br><br>
 <img src="https://raw.githubusercontent.com/KianSantang777/vbv/refs/heads/main/demo.png" alt="Girl in a jacket" width="500" height="600">
 
