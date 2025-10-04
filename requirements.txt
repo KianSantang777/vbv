@@ -1,0 +1,9 @@
+requests
+httpx
+aiohttp
+pyfiglet
+colorama
+tqdm
+psutil
+asyncio
+aiofiles
