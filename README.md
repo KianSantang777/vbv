@@ -8,6 +8,7 @@ card checker 3D's using python 3.13
 - git clone https://github.com/KianSantang777/vbv.git
 - pip install requests asyncio aiohttp faker colorama pyfiglet httpx pycryptodome
 - cd vbv
+- pip install -r requiremets.txt
 - python maincek.py
 ```
 ## Contact DEV
