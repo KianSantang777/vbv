@@ -1,9 +1,16 @@
 requests
-httpx
+httpx[http2]
+requests[socks]
+bs4
+cookiejar
 aiohttp
 pyfiglet
 colorama
+pyarmor
+pyc
+cython
 tqdm
 psutil
 asyncio
 aiofiles
+pycryptodome
