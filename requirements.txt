@@ -1,5 +1,6 @@
 requests
 python-socketio
+distro
 bs4
 faker
 aiohttp
