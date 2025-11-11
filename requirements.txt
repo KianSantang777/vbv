@@ -1,5 +1,6 @@
 requests
 python-socketio
+websocket-client
 distro
 bs4
 faker
@@ -12,3 +13,4 @@ psutil
 asyncio
 aiofiles
 pycryptodome
+
